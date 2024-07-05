@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inspaplus.github.io/sitemap
+Sitemap: https://inspaplus.github.io/app/sitemap
+Sitemap: https://inspaplus.github.io/assets/sitemap
+Sitemap: https://inspaplus.github.io/css/sitemap
+Sitemap: https://inspaplus.github.io/includes/sitemap
+Sitemap: https://inspaplus.github.io/item/sitemap
+Sitemap: https://inspaplus.github.io/src/sitemap
